@@ -1,4 +1,3 @@
-Here’s a **README-style guide** for the NTP setup script we built together. This explains what the script does, how to use it, and how the access rules work.
 
 ---
 
@@ -68,7 +67,3 @@ restrict 103.135.132.0 mask 255.255.254.0 nomodify notrap
 ```
 
 ---
-
-This README ensures anyone using your script knows exactly what it does and how to apply it.  
-
-👉 I can also prepare a **README for Chrony-based setup** (modern replacement for NTP) if you’d like to support both daemons in your environment.
